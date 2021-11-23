@@ -248,3 +248,20 @@ li{
         border-radius: 50%;
     }
 }
+.dot1{
+    height: 25px;
+    width:25px;
+    background-color:rgb(255, 196, 0) ;
+    border-radius: 50%;
+    display: inline-block;
+    justify-content: space-between;
+    margin: 20px;
+    margin-top: 100px;
+}
+@media only screen and (max-width:600px){
+    .dot1{
+        height:20px;
+        width:20px;
+        border-radius: 50%;
+    }
+}
