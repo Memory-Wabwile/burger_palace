@@ -35,3 +35,19 @@ a{
     text-decoration: none;
     color: black;
 }
+.home {
+    margin-right: 20px;
+    padding: 20px;
+    text-decoration:underline 8px solid#ff7300;
+}
+
+.firstimage {
+    margin-bottom: 80px;
+    padding: 40px;
+  height: min-content;
+}
+li{
+    list-style: none;
+    justify-content: space-around;
+    margin-right: 80px;;
+    }
