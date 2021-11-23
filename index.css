@@ -310,4 +310,23 @@ br {
 .sitemap {
     margin-right: 60px;
 }
-
+.Subscriber {
+    margin-right: 20px;
+}
+.form {
+    height: 50px;
+    padding: 50px;
+}
+#submit {
+    background-color: #F6B400;
+    border-style: none;
+    padding: 8px;
+}
+#fname {
+    padding: 8px;
+}
+.copyright{
+    display: flex;
+    justify-content: space-between;
+    height: 30px;
+}
