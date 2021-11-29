@@ -1,7 +1,7 @@
 # burger_palace
 burger restaurant
 #### {Burger palace is a restaurant that cooks and delivers burgers}, {5th Nov, 2021}
-https://wabwile-memory.github.io/burgerr_palace/
+https://memory-wabwile.github.io/burger_palace/
 #### By *{Wabwile Memory}*
 ## Description
 {Burger palace is a restaurant that cooks and delivers burgers. It offers both dining in and take away services. there is a mobile application that enables customers to order and get a delivery }
